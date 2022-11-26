@@ -20,7 +20,6 @@ $root.appendChild(p)
 let b = document.body.style
 b.display = "flex"
 b.justifyContent = "center"
-b.overflow = "hidden"
 b.padding = "0"
 b.boxSizing = "border-box"
 b.background = "hsl(212, 45%, 89%)"
